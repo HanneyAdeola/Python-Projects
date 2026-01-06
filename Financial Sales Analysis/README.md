@@ -58,3 +58,14 @@ The dataset includes:
 - Discounts vary by discount band, showing strategic pricing patterns
 
 ---
+## Conclusion
+
+This analysis highlights key sales and profitability trends across countries,
+products, and customer segments. Insights include:
+
+- Top-performing countries in terms of sales
+- Products with highest profits and units sold
+- Segments with most sales activity
+- Discount patterns by discount band
+
+These insights can guide business strategy, pricing decisions, and inventory management.
