@@ -1,4 +1,4 @@
-# Financial Sales Analysis (Python)
+# Financial Sales Analysis 
 
 ## 📌 Project Overview
 This project analyzes **sales and product performance** data to provide actionable insights for business strategy and profitability improvement.  
@@ -47,7 +47,7 @@ Key opportunities include:
 - **Recommendation:**
   - For VTT: Reduce COGS without hurting volume.  
   - For Paseo: Increase marketing to target high-margin customers.
-  
+  ![](./Product%20performance.PNG)
 
 ### 2️⃣ Sales by Country
 - **Observation:** USA, Canada, and France are top markets.  
@@ -55,17 +55,20 @@ Key opportunities include:
 - **Recommendation:**
   - Promote Paseo in USA and VTT in France/Canada.  
   - Investigate underperforming markets (Germany, Mexico).
+  ![](./Sales%20by%20country.PNG)
 
 ### 3️⃣ Cost of Goods Sold (COGS) Analysis
 - **Observation:** VTT has the highest total COGS, lowering profit.  
 - **Insight:** Production and logistics cost heavily impact profitability.  
 - **Recommendation:** Launch a supply chain review for VTT; a 5-10% cost reduction can boost overall profit.
+![](./COGS%20Analysis.PNG)
 
 ### 4️⃣ Discount Pattern Analysis
 - **Observation:** 57.7% of discounts are in the "High" band.  
 - **Insight:** Discounts are skewed, cutting into margins.  
 - **Recommendation:** Audit high discounts and consider alternatives (bundles, free shipping).  
   - Target: Reduce high discount share to 40%.
+![](./Discount%20analysis.PNG)
 
 ### 5️⃣ Segment Distribution Analysis
 - **Observation:** "Channel Partners" (41.3%) and "Enterprise" (15.3%) dominate sales.  
@@ -73,7 +76,7 @@ Key opportunities include:
 - **Recommendation:** 
   - Strengthen partner marketing for high-margin products.  
   - Grow direct enterprise sales with dedicated strategy.
-
+![](./Segment%20distribution.PNG)
 ---
 
 ## 🎯 Integrated Strategic Action Plan
